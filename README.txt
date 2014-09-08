@@ -22,4 +22,4 @@ The output is comma separated values file with descriptors in columns. The outpu
 The program and its source are distributed under the GNU GPLv3 license.
 
 For reference or citation use
-Devinyak, O.; Havrylyuk, D.; Lesyk, R. 3D-MoRSE descriptors explained. Submitted to J. Chem. Inf. Model., 2014.
+Devinyak, O.; Havrylyuk, D.; Lesyk, R. 3D-MoRSE descriptors explained. Submitted to J. Mol. Graph. Model., 2014.
